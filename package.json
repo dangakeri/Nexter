@@ -1,0 +1,14 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "A Grid layout project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
